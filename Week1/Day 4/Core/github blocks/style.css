@@ -1,0 +1,23 @@
+.cont{width: 700px;
+    height:200px;
+    background-color: aqua;
+}
+img{width: 200px;
+height:150px;
+display: inline-block;
+justify-content: space-around;
+margin-left: 20px;
+margin-top: 20px;
+}
+.conte{width: 700px;
+    height:200px;
+    background-color:palevioletred;
+}
+img{width: 200px;
+    height:150px;
+    display: inline-block;
+    justify-content: space-around;
+    justify-content: center;
+    margin-left: 20px;
+    margin-top: 20px;
+}
